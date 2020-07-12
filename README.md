@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a target="_blank" src="https://isaak.dev">
+  <a target="_blank" href="https://isaak.dev">
   <img src="https://raw.githubusercontent.com/lk-geimfari/lk-geimfari.github.io/master/assets/images/other/preview.png" width="700"/>
   </a>
 </p>
