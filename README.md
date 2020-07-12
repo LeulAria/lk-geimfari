@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/lk-geimfari/lk-geimfari.github.io/master/assets/images/other/preview.png)
+
 My name is Isaak Uchakaev.
 
 Like any other programmer and professional, I love learning new things and technologies, and sometimes, 
