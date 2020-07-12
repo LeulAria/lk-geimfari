@@ -1,5 +1,3 @@
-### Hi there 👋
-
 My name is Isaak Uchakaev.
 
 I work as a Backend Engineer at [roskomsvoboda](https://github.com/roskomsvoboda).
