@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/lk-geimfari/lk-geimfari.github.io/master/assets/images/other/preview.png)
+<img src="https://raw.githubusercontent.com/lk-geimfari/lk-geimfari.github.io/master/assets/images/other/preview.png" width="650"/>
+
 
 My name is Isaak Uchakaev.
 
