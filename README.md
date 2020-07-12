@@ -8,7 +8,7 @@
 
 
 
-My name is Isaak Uchakaev.
+My name is [Isaak Uchakaev](https://isaak.dev/about/).
 
 Like any other programmer and professional, I love learning new things and technologies, and sometimes, 
 I write my thoughts about such things in my personal blog https://isaak.dev, so feel free to [subscribe](https://isaak.dev/subscribe/) to me. 
