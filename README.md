@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://isaak.dev">
-  <img src="https://raw.githubusercontent.com/lk-geimfari/lk-geimfari.github.io/master/assets/images/other/preview.png" width="670"/>
+  <img src="https://raw.githubusercontent.com/lk-geimfari/lk-geimfari.github.io/master/assets/images/other/preview.png" width="660"/>
   </a>
 </p>
 
