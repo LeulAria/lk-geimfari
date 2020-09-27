@@ -10,7 +10,4 @@ Hi, my name is [Isaak Uchakaev](https://isaak.dev/about/).
 Currently, I'm working as a Backend Engineer [@roskomsvoboda](https://github.com/roskomsvoboda).
 
 Like any other programmer and professional, I love learning new things and technologies, and sometimes, 
-I write my thoughts about such things in my personal blog https://isaak.dev, so feel free to [subscribe](https://isaak.dev/subscribe/) me. 
-
-I have a Telegram channel where I cross-post articles from my blog and post all
-the open-source goodies I found: [@the_art_of_development](https://t.me/the_art_of_development).
+I write my thoughts about such things in my personal blog https://isaak.dev and in [Telegram channel](https://t.me/the_art_of_development), so feel free to [subscribe](https://isaak.dev/subscribe/) me. 
